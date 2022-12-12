@@ -101,7 +101,7 @@ const Main = () => {
               className="bg-sky-500 font-bold text-3 leading-[23px] text-white px-[69.5px] py-[16px] rounded-[10px]"
               onClick={loaddata}
             >
-              Load
+              Data
             </button>
           </div>
           <div className="flex flex-wrap">
